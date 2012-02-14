@@ -1,0 +1,15 @@
+[general]
+id=nocopypaste@adblockplus.org
+basename=nocopypaste
+branchname=NOCOPYPASTE
+version=1.0
+author=Wladimir Palant
+restartless=true
+nojar=true
+
+[homepage]
+default=https://addons.mozilla.org/addon/nocopypaste/
+
+[compat]
+firefox=8.0/13.0a1
+seamonkey=2.5/2.10a1
