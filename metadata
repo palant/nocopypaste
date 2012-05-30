@@ -11,5 +11,5 @@ nojar=true
 default=https://addons.mozilla.org/addon/nocopypaste/
 
 [compat]
-firefox=8.0/15.0a1
-seamonkey=2.5/2.12a1
+firefox=8.0/16.0a1
+seamonkey=2.5/2.13a1
