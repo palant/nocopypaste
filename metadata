@@ -4,8 +4,6 @@ basename=nocopypaste
 branchname=NOCOPYPASTE
 version=1.0.1a
 author=Wladimir Palant
-restartless=true
-nojar=true
 
 [homepage]
 default=https://addons.mozilla.org/addon/nocopypaste/
