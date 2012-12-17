@@ -1,7 +1,6 @@
 [general]
 id=nocopypaste@adblockplus.org
 basename=nocopypaste
-branchname=NOCOPYPASTE
 version=1.0.1a
 author=Wladimir Palant
 
