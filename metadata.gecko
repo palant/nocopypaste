@@ -8,5 +8,5 @@ author=Wladimir Palant
 default=https://addons.mozilla.org/addon/nocopypaste/
 
 [compat]
-firefox=16.0/26.0
-seamonkey=2.13/2.23
+firefox=16.0/30.0
+seamonkey=2.13/2.27
